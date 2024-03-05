@@ -1,0 +1,40 @@
+[
+ {
+  "title": "stock",
+  "primary aspect": "reload speed",
+  "secondary aspect": "accuracy",
+  "optional aspect": "accuracy",
+  "primary share": 66.66666667,
+  "secondary share": 30
+ },
+ {
+  "title": "body",
+  "primary aspect": "fire rate",
+  "secondary aspect": "damage",
+  "optional aspect": "magazine size",
+  "primary share": 100,
+  "secondary share": 40
+ },
+ {
+  "title": "barrel",
+  "primary aspect": "accuracy",
+  "secondary aspect": "damage",
+  "optional aspect": "fire rate",
+  "primary share": 70,
+  "secondary share": 20
+ },
+ {
+  "title": "magaize",
+  "primary aspect": "magazine size",
+  "secondary aspect": "reload speed",
+  "optional aspect": "damage",
+  "primary share": 100,
+  "secondary share": 33.33333333
+ },
+ {
+  "title": "accessory",
+  "primary aspect": "damage",
+  "optional aspect": "reload speed",
+  "primary share": 40
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "title": "pistol",
+  "damage": 25,
+  "fire rate": 60,
+  "accuracy": 70,
+  "reload speed": 6,
+  "magazine size": 15,
+  "salvo": 1
+ },
+ {
+  "title": "automatic rifle",
+  "damage": 15,
+  "fire rate": 90,
+  "accuracy": 80,
+  "reload speed": 9,
+  "magazine size": 32,
+  "salvo": 1
+ },
+ {
+  "title": "shotgun",
+  "damage": 5,
+  "fire rate": 50,
+  "accuracy": 50,
+  "reload speed": 3,
+  "magazine size": 2,
+  "salvo": 14
+ },
+ {
+  "title": "machine gun",
+  "damage": 10,
+  "fire rate": 200,
+  "accuracy": 60,
+  "reload speed": 21,
+  "magazine size": 120,
+  "salvo": 1
+ },
+ {
+  "title": "sniper rifle",
+  "damage": 50,
+  "fire rate": 30,
+  "accuracy": 90,
+  "reload speed": 12,
+  "magazine size": 8,
+  "salvo": 1
+ }
+]

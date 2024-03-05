@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://ccf1so3d5kpo6"]
+
+[ext_resource type="PackedScene" uid="uid://cijfgbdi8yqwa" path="res://scene/4/token.tscn" id="1_764an"]
+[ext_resource type="Script" path="res://scene/4/indicator.gd" id="2_pulnw"]
+
+[node name="Indicator" instance=ExtResource("1_764an")]
+script = ExtResource("2_pulnw")
